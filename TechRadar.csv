@@ -1,5 +1,5 @@
 name,ring,quadrant,isNew,description
-Kotlin,Adopt,Programming Languages And Frameworks,FALSE,
+Kotlin,Adopt,Programming Languages And Frameworks,FALSE,"<p>The <strong>API expand-contract</strong> pattern, sometimes called <a href=""https://www.martinfowler.com/bliki/ParallelChange.html"">parallel change</a>, will be familiar to many, especially when used with databases or code; however, we only see low levels of adoption with APIs. Specifically, we're seeing complex versioning schemes and breaking changes used in scenarios where a simple expand and then contract would suffice. For example, first adding to an API while deprecating an existing element, and then only later removing the deprecated elements once consumers are switched to the newer schema. This approach does require some coordination and visibility of the API consumers, perhaps through a technique such as <a href=""https://martinfowler.com/articles/consumerDrivenContracts.html"">consumer-driven contract</a> testing.</p>"
 Kotlin Coroutines,Adopt,Programming Languages And Frameworks,FALSE,
 Dagger 2,Adopt,Programming Languages And Frameworks,FALSE,
 JUnit,Adopt,Programming Languages And Frameworks,FALSE,
